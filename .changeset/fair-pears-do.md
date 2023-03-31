@@ -1,0 +1,5 @@
+---
+"pinky-promise": patch
+---
+
+setup
