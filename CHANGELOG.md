@@ -1,5 +1,11 @@
 # pinky-promise
 
+## 1.1.0
+
+### Minor Changes
+
+- 89be447: changed ci and stuff
+
 ## 1.0.0
 
 ### Major Changes
