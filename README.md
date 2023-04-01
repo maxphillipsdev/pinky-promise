@@ -1,5 +1,8 @@
 # PinkyPromise
 
+[![CI](https://github.com/maxphillipsdev/pinky-promise/actions/workflows/main.yml/badge.svg)](https://github.com/maxphillipsdev/pinky-promise/actions/workflows/main.yml)
+[![Publish](https://github.com/maxphillipsdev/pinky-promise/actions/workflows/publish.yml/badge.svg)](https://github.com/maxphillipsdev/pinky-promise/actions/workflows/publish.yml)
+
 PinkyPromise is the npm package that takes the trust and reliability of JavaScript Promises to the next level. With its playful name and unwavering commitment to delivering on its promises, PinkyPromise is the perfect solution for developers who demand the highest levels of performance and dependability in their code.
 
 ## Installation
