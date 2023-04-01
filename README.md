@@ -25,9 +25,9 @@ import { PinkyPromise } from '@memp/pinky-promise';
 const myPinkyPromise = new PinkyPromise((resolve, reject) => {
   // Perform some asynchronous operation...
   if (/* Success condition */) {
-    resolve('Pinky promise fulfilled!');
+    resolve('Pinky promise fulfilled! 🥰');
   } else {
-    reject('Pinky promise broken!');
+    reject('Pinky promise broken! 🥺');
   }
 });
 
