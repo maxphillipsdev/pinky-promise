@@ -20,7 +20,7 @@ This will download and install the latest version of PinkyPromise and all of its
 Using PinkyPromise is a straightforward and intuitive process. Simply import the module into your JavaScript code, and start using it as you would any other Promise implementation:
 
 ```javascript
-const PinkyPromise = require('pinky-promise');
+import { PinkyPromise } from '@memp/pinky-promise';
 
 const myPinkyPromise = new PinkyPromise((resolve, reject) => {
   // Perform some asynchronous operation...
