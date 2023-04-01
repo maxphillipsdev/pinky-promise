@@ -1,6 +1,7 @@
 {
-  "name": "pinky-promise",
+  "name": "@memp/pinky-promise",
   "description": "🚀 Blazingly fast async for JavaScript with 107% more trust built in!",
+  "author": "maxphillipsdev",
   "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
@@ -9,7 +10,8 @@
   "scripts": {
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "lint": "tsc",
-    "test": "vitest"
+    "test": "vitest",
+    "release": "pnpm run build && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",
