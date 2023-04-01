@@ -7,7 +7,7 @@ PinkyPromise is the npm package that takes the trust and reliability of JavaScri
 To install PinkyPromise, simply run the following command in your terminal:
 
 ```
-npm install pinky-promise
+npm install @memp/pinky-promise
 ```
 
 This will download and install the latest version of PinkyPromise and all of its dependencies, ensuring that you have everything you need to start using this powerful and trustworthy tool right away.
