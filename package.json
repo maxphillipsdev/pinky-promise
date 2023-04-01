@@ -1,5 +1,6 @@
 {
   "name": "pinky-promise",
+  "description": "🚀 Blazingly fast async for JavaScript with 107% more trust built in!",
   "version": "0.0.1",
   "license": "MIT",
   "main": "dist/index.js",
