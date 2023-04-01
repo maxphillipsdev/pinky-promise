@@ -2,7 +2,7 @@
   "name": "@memp/pinky-promise",
   "description": "🚀 Blazingly fast async for JavaScript with 107% more trust built in!",
   "author": "maxphillipsdev",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
